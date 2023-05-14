@@ -8,10 +8,10 @@
 
 # TODO list
 
-Dataset prepare
-Training code
-Base model
-Alignment
-Inference
-Testing
+- Dataset prepare
+- Training code
+- Base model
+- Alignment
+- Inference
+- Testing
 
