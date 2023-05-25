@@ -43,10 +43,17 @@
 
 # TODO list
 
+### Phase 1
+
 - Dataset prepare
 - Training code
 - Base model
 - Alignment
 - Inference
 - Testing
+
+### Phase 2
+
+- Deepspeed support
+- Evaluation set
 
